@@ -8,3 +8,6 @@ NLPLAB Dialogue 데이터셋을 학습한 KoBART기반의 대화 상태 추적 �
 
 ## IR
 NLPLAB IR(한국어 정보검색) 데이터셋을 학습한 한국어 DPR 모델
+
+## sLM
+NLPLAB sLM 데이터셋을 학습한 한국어 소형 언어 모델
