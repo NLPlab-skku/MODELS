@@ -4,7 +4,7 @@ NLPLAB에서 구축한 NLPLAB sLM 데이터셋을 기반으로 학습한 한국�
 
 # V0
 
-[SKKU-NLULAB-SLM-v0](https://huggingface.co/NLPlab-skku/42dot_v0) <br/><br/>
+[SKKU-NLULAB-sLM-v0](https://huggingface.co/NLPlab-skku/42dot_v0) <br/><br/>
 NLPLAB sLM 데이터셋을 따로 정제하지 않고 그대로 instruction tuning 한 모델입니다.
 
 # V1
