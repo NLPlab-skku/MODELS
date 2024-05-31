@@ -1,6 +1,6 @@
 # 한국어 대화 데이터셋 학습 모델
 
-NLPLAB에서 구축한 NLPLAB Dialogue 데이터셋을 학습한 [KoBART](https://github.com/SKT-AI/KoBART)기반의 대화 상태 추적 모델 및 대화 응답 생성 모델입니다.
+NLPLAB에서 구축한 [NLPLAB Dialogue 데이터셋](https://github.com/NLPlab-skku/DATA/tree/main/Dialogue)을 학습한 SKT의 [KoBART](https://github.com/SKT-AI/KoBART)기반의 한국어 대화 상태 추적 모델 및 한국어 대화 응답 생성 모델입니다.
   
 ## Models
 |제목|내용|위치|
