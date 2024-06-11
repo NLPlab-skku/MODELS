@@ -10,4 +10,4 @@ NLPLAB sLM 데이터셋을 instruction tuning 한 모델입니다.<br/>
 
 ## sLM.v1
 NLPLAB sLM 데이터셋을 2차 가공하여 instruction tuning 한 모델입니다.<br/>
-- Repo: [🤗SKKU-NLULAB-sLM-v0](https://huggingface.co/NLPlab-skku/42dot_v1) <br/>
+- Repo: [🤗SKKU-NLULAB-sLM-v1](https://huggingface.co/NLPlab-skku/42dot_v1) <br/>
