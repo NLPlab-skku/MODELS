@@ -6,7 +6,7 @@ SKKU-NLPLAB-sLM은 NLPLAB에서 구축한 [NLPLAB sLM 데이터셋](https://gith
 
 ## sLM.v0
 NLPLAB sLM 데이터셋을 instruction tuning 한 모델입니다.<br/>
-- Repo: [🤗SKKU-NLULAB-sLM-v0](https://huggingface.co/NLPlab-skku/42dot_v0) <br/>
+- Repo: [🤗SKKU-NLPLAB-sLM-v0](https://huggingface.co/NLPlab-skku/42dot_v0) <br/>
 
 |데이터셋|개수|
 |------|---|
@@ -18,7 +18,7 @@ NLPLAB sLM 데이터셋을 instruction tuning 한 모델입니다.<br/>
 
 ## sLM.v1
 NLPLAB sLM 데이터셋을 2차 가공하여 instruction tuning 한 모델입니다.<br/>
-- Repo: [🤗SKKU-NLULAB-sLM-v1](https://huggingface.co/NLPlab-skku/42dot_v1) <br/>
+- Repo: [🤗SKKU-NLPLAB-sLM-v1](https://huggingface.co/NLPlab-skku/42dot_v1) <br/>
 
 v0의 데이터 셋에서 랜덤으로 15%의 데이터를 추출한 후, gpt-4o를 통하여 필터링하였습니다. <br/>
 
