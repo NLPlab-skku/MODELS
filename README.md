@@ -1,13 +1,42 @@
-# SKKU NLPLAB MODELS
+# 🌟 SKKU NLPLAB MODELS
 
-NLPLAB에서 학습한 모델 목록입니다.
+**NLPLAB에서 학습한 모델 목록입니다.**  
 이후에도 다양한 모델들을 추가로 학습하고 공개할 예정입니다.
 
-## Dialogue
-NLPLAB Dialogue 데이터셋을 학습한 KoBART기반의 한국어 대화 상태 추적 모델 및 한국어 대화 응답 생성 모델
+---
 
-## IR
-NLPLAB IR 데이터셋을 학습한 한국어 DPR 모델
+## 💬 Dialogue
+- **모델 설명**:  
+  NLPLAB Dialogue 데이터셋을 학습한 **KoBART 기반**의 한국어 대화 모델
+  - **대화 상태 추적 모델**:  
+    대화 맥락을 이해하고 상태를 추적하는 모델
+  - **대화 응답 생성 모델**:  
+    자연스럽고 의미 있는 대화를 생성하는 모델
 
-## sLM
-NLPLAB sLM 데이터셋을 학습한 한국어 소형 언어 모델
+---
+
+## 🔍 Information Retrieval (IR)
+- **모델 설명**:  
+  NLPLAB IR 데이터셋을 학습한 **한국어 DPR 모델**
+  - 효율적인 문서 검색 및 질문 응답을 위한 **Dense Passage Retrieval** 구조 기반
+
+---
+
+## 🧠 Small Language Models (sLM)
+- **모델 설명**:  
+  NLPLAB sLM 데이터셋을 학습한 **한국어 소형 언어 모델**
+  - 경량화된 아키텍처로 **속도와 효율성**을 고려하여 설계
+  - 한국어 환경에서 다양한 언어 이해 및 생성 작업 지원
+
+---
+
+### ✨ About NLPLAB
+NLPLAB은 자연어 처리와 인공지능 연구에 초점을 맞추고 있으며, 연구 결과를 사회와 학문에 기여하기 위해 학습한 모델을 지속적으로 공개하고 있습니다.  
+
+- 새로운 모델과 관련 업데이트는 이 저장소에서 확인하실 수 있습니다.
+- 문의 사항이나 협력 요청은 [Issues](https://github.com/NLPlab-skku/)를 통해 남겨주세요.
+
+---
+
+### 📢 Coming Soon
+- 추가적으로 학습 중인 모델들이 곧 공개될 예정입니다. 최신 정보를 놓치지 않으려면 **Star**를 눌러주세요!
